@@ -1,10 +1,14 @@
 <!-- ![](unilogo.png) -->
 
 # A Taxonomy of Algorithmic Rhetoric
+Aaron Beveridge  
+Assistant Professor at UNC Greensboro
 
 -------------------------------------------------------------------------------
 
 ![](animal-taxonomy.jpg)
+
+[Image Source](https://merlinone.com/how-does-search-work-in-a-dam-software-solution-part-3-power-of-taxonomy-includes-video-demo/)
 
 -------------------------------------------------------------------------------
 
